@@ -1,6 +1,5 @@
 #include "Jacob_Bell_Polynomial.h"
 #include <iostream>
-#include <vector>
 
 Polynomial::Polynomial()
 {

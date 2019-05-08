@@ -24,7 +24,7 @@ public:
 
 
 private:
-    int * terms;
+    int * terms; // store exponents as dynamic array index
     int degree;
 
 

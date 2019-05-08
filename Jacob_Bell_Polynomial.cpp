@@ -23,6 +23,7 @@ Polynomial::Polynomial(int deg, int arr[])
 Polynomial::~Polynomial()
 {
     delete [] terms;
+    terms = nullptr;
 }
 
 void Polynomial::enterTerms()

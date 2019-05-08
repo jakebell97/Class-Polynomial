@@ -1,8 +1,6 @@
 #ifndef JACOB_BELL_POLYNOMIAL_H_INCLUDED
 #define JACOB_BELL_POLYNOMIAL_H_INCLUDED
 
-#include <vector>
-
 class Polynomial
 {
 public:
